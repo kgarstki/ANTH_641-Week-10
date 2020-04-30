@@ -3,7 +3,7 @@
 ## Part One – Create a dataset from Open Context and use it in TimeMapper
 
 We’re going to create a TimeMap about the types of ceramics found through time in the survey area of the Pyla-Koustopetria Archaeological project (read about the project [here](https://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2)). The benefit of the TimeMap is combining geospatial information with chronological information, while at the same time conveying an archaeological narrative. Below are some instructions on the exercise, but I recommend first watching the video associated with this activity – it will go into more detailed explanation on how to use the tools. 
-1. To begin, we’ll create the dataset we’ll use. Go to the Open Context project page, and click on the sample data records. Limit the search to just those records that are “Linked to images.” Export these data as a csv file (there should be 935 records). 
+1. To begin, we’ll create the dataset we’ll use. Go to the Open Context project [page](https://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2), and click on the sample data records. Limit the search to just those records that are “Linked to images.” Export these data as a csv file (there should be 935 records). 
 
 2. We will now significantly edit the dataset. Save a new file as “PKAP_edit” from the dataset you’ve download, just so we can go back in case we mess up. We’re focused on telling a very specific story – how do ceramic styles change over time in this region. So, we’re going to cut these 935 records to 15. First, sort by the “Period” column alphabetically. Then go through and highlight 15 full records, each from a different chronological period. Delete all of the other records except those 15. 
 
