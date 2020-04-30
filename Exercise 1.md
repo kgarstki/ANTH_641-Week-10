@@ -27,7 +27,7 @@ We’re going to create a TimeMap about the types of ceramics found through time
 
 8. In your google sheet, go to File and Publish to the Web. And click Publish. Then click on Share in the top right corner. Make sure your document is open to the public. Copy the link that is provided to you – this is what you’ll paste into TimeMapper. 
 
-8. Now your data should be all set. Go to the TimeMapper site. TimeMapper is an open-source project of Open Knowledge Foundation Labs. It is possible thanks to a set of awesome open-source components including TimelineJS, ReclineJS, Leaflet, Backbone and Bootstrap. You can find the full open-source source for TimeMapper on GitHub here. 
+8. Now your data should be all set. Go to the TimeMapper [site](http://timemapper.okfnlabs.org/). TimeMapper is an open-source project of Open Knowledge Foundation Labs. It is possible thanks to a set of awesome open-source components including TimelineJS, ReclineJS, Leaflet, Backbone and Bootstrap. You can find the full open-source source for TimeMapper on GitHub [here](https://github.com/okfn/timemapper). 
 
 9. You can log in with your Twitter log in, or you can create a map anonymously – the main benefit of logging in is that you can return to your different projects. Click “Get Started Now.” Paste your Google Spreadsheet URL into the Data Source and Title your Map. Last thing to do is Publish it.   
 
