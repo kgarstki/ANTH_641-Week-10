@@ -13,12 +13,19 @@ We’re going to create a TimeMap about the types of ceramics found through time
 
 5. Make sure the TimeMapper Template is downloaded. We’ll copy and paste full columns from PKAP_edit into our template. Copy the following: 
 •	Chronotype > Title
+
 •	Early BCE/CE > Start
+
 •	Late BCE/CE > End
+
 •	Description > Description
+
 •	URI > Web Page
+
 •	Location > Location
+
 •	Project Label > Source
+
 •	Project URI > Source URL
 
 6. Upload this TimeMapper excel sheet into your Google Drive and “Save as Google Sheets.”
