@@ -12,6 +12,7 @@ We’re going to create a TimeMap about the types of ceramics found through time
 4. Give half of your records a sentence or two textual descriptions of the ceramics (make sure to include the period it’s from).
 
 5. Make sure the TimeMapper Template is downloaded. We’ll copy and paste full columns from PKAP_edit into our template. Copy the following: 
+
 •	Chronotype > Title
 
 •	Early BCE/CE > Start
