@@ -2,7 +2,7 @@
 
 ## Part One – Using StoryMap
 
-In this activity we’ll be using [StoryMapJS](https://storymap.knightlab.com/) to create a storymap about the Duchess of Mecklenburg and her work excavating Iron Age burial mounds in Slovenia in the early 20th century. StoryMaps are interactive maps, coupled with a textual narrative, that often include different multimedia components. This platform provides a very cool way to share an archaeological narrative. 
+In this activity we’ll be using [StoryMapJS](https://storymap.knightlab.com/) to create a storymap about the Duchess of Mecklenburg and her work excavating Iron Age burial mounds in Slovenia in the early 20th century. StoryMaps are interactive maps, coupled with a textual narrative, that often include different multimedia components. This platform provides a very cool way to share an archaeological narrative. It will be helpful to watch this [instructional video](https://www.youtube.com/watch?v=ihbtyJ8MKTA&feature=youtu.be) first, as it gets into much more detail than the text. 
 
 1. Make sure the folder “Storymap material.zip” is downloaded from Canvas and unzipped. This will contain all of the material you’ll need to create the storymap along with this assignment. 
 
